@@ -1,89 +1,109 @@
-# 👋 Hi, I'm Mriganka Shekhar Barman
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff">Mriganka Shekhar Barman</span></h1>
 
-🎓 Civil Engineering Graduate from India | 💻 Aspiring Researcher in Computer Science & Engineering  
-🚀 Transitioning into Full Stack Development, Embedded Systems, and AI for Real-World Impact  
-📍 Currently based in India | 🌐 Open to Global Research Opportunities  
+<p align="center">
+  🎓 Civil Engineering Graduate • 💻 Full Stack & Embedded Developer • 🔬 Future CSE PhD Researcher  
+</p>
+<p align="center">
+  <a href="mailto:mrigankasb23@iitk.ac.in"><img src="https://img.shields.io/badge/Email-mrigankasb23@iitk.ac.in-blue?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/MrigankaSB/"><img src="https://img.shields.io/badge/LinkedIn-MrigankaSB-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/MrigankaSB"><img src="https://img.shields.io/badge/GitHub-MrigankaSB-black?style=flat&logo=github"></a>
+  <a href="https://mrigankasb.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mrigankasb.vercel.app-green?style=flat&logo=vercel"></a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Civil Engineering graduate** turned passionate technologist, blending traditional engineering thinking with modern **Full Stack Web Development**, **Embedded Systems**, and **AI/ML**. I believe in using technology not just to solve problems—but to solve *the right* problems, sustainably and intelligently.
-
-- 🔬 Currently preparing to pursue a **PhD in Computer Science & Engineering at IIT Kanpur**  
-- 🎯 Long-term goal: To become a **researcher in industry**, focusing on intelligent and scalable systems (esp. AI + Edge + Web + Embedded)
-- 🧑‍💻 Actively learning and building projects in:
-  - Full Stack Web Development (Next.js, Tailwind CSS, Node.js, MongoDB, Prisma)
-  - Embedded Systems for UAVs (C/C++, ROS2, PX4, MAVLink, Sensor Fusion)
-  - AI/ML Model Optimization for Edge Deployment (YOLO, TensorRT, Quantization)
-  - WebGIS using Leaflet.js and GeoJSON
-
----
-
-## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
-</p>
-
-### ⚙️ Full Stack Development  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="filter: invert(100%)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" style="filter: invert(100%)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://www.svgrepo.com/show/374118/prisma.svg" width="40" alt="Prisma ORM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-</p>
-
-### 🛰️ Embedded Systems & Robotics  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/C_Programming_Language.svg" width="40" alt="C Programming"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cplusplus_logo.png" width="40" alt="C++"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ROS_logo.svg" width="40" alt="ROS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/PX4_logo.svg" width="40" alt="PX4"/>
-  <img src="https://raw.githubusercontent.com/mavlink/mavlink/master/mavlink-logo.svg" width="40" alt="MAVLink"/>
-</p>
-
-### 🌍 WebGIS  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Leaflet_logo.svg" width="40" alt="Leaflet.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/GeoJSON_logo.svg" width="40" alt="GeoJSON"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/>
-</p>
-
-### 🤖 AI/ML & Edge Deployment  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/TensorFlowLogo.svg" width="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/ONNX_logo_main.png" width="40" alt="ONNX"/>
-  <img src="https://developer.nvidia.com/sites/default/files/styles/scale_200/public/2021-10/TensorRT_Logo_RGB_H.png" width="80" alt="TensorRT"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-- ✉️ Email: [mrigankasb23@iitk.ac.in](mailto:mrigankasb23@iitk.ac.in)  
-- 🌐 Portfolio: [mrigankasb.vercel.app](https://mrigankasb.vercel.app) *(WIP)*  
-- 💼 LinkedIn: [linkedin.com/in/MrigankaSB](https://www.linkedin.com/in/MrigankaSB/)  
-- 🧑‍💻 GitHub: [github.com/MrigankaSB](https://github.com/MrigankaSB)
-
----
-
-## 🧭 Motto
-
 > “Build for impact. Learn by doing. Never stop evolving.”
 
+Hi! I'm **Mriganka**, a passionate and dynamic technologist transitioning from **Civil Engineering** to the cutting edge of **Computer Science**, **AI**, **Full Stack Development**, and **Embedded Systems for UAVs**.
+
+I aim to pursue a **PhD in Computer Science & Engineering** from IIT Kanpur and work as a **researcher in industry**, innovating at the intersection of **AI**, **Edge Computing**, **Web Technologies**, and **Autonomous Systems**.
+
 ---
+
+## 🔧 Technologies & Tools
+
+### 🖥️ Programming Languages  
+`C++` • `C` • `Python` • `JavaScript` • `TypeScript` • `HTML` • `CSS` • `SQL`
+
+### 🧱 Full Stack Web Development  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-black?style=flat&logo=framer)  
+`Node.js` • `Express.js` • `MongoDB` • `SQLite` • `Prisma ORM` • `Vercel` • `CI/CD` • `Firebase`
+
+### 🌍 WebGIS & Mapping  
+`Leaflet.js` • `GeoJSON` • `OpenStreetMap` • `Mapbox GL JS` • `Responsive GIS Dashboards`
+
+### 🧠 AI/ML & Optimization  
+`YOLOv8` • `ONNX` • `TensorRT` • `Quantization` • `Edge AI Deployment`  
+`Numpy` • `Pandas` • `Scikit-learn` • `Matplotlib`
+
+### 🚁 Embedded Systems & UAVs  
+`C/C++` • `RTOS` • `Sensor Fusion` • `Kalman Filter`  
+`PX4` • `ArduPilot` • `MAVLink` • `ROS2` • `Gazebo`  
+`UART` • `SPI` • `I2C` • `CAN` • `STM32` (Basic)
+
+---
+
+## 🧪 Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔥 **[Portfolio Website](https://github.com/MrigankaSB/portfolio)** | Modern portfolio with `Next.js 15`, `App Router`, `Tailwind CSS`, `Framer Motion`, `ShadCN UI`, `CI/CD`, `Vercel`, `Plausible Analytics` |
+| 🗺️ **[India WebGIS Dashboard](https://github.com/MrigankaSB/webgis-india)** | Searchable and color-coded Indian state map with `Leaflet.js`, `GeoJSON`, `Tailwind`, and a responsive dark UI |
+| 🧠 **[YOLO Edge Optimization (WIP)](https://github.com/MrigankaSB/yolo-edge-opt)** | Pipeline to prune, quantize, and deploy `YOLOv8` models to `Jetson Nano` or Raspberry Pi using `TensorRT` |
+
+---
+
+## 💼 Experience
+
+### 💻 WebGIS Development Intern  
+**TerrAqua UAV Solutions Pvt Ltd (2025)**  
+- Built an interactive, responsive WebGIS dashboard for Indian states using Leaflet.js  
+- Implemented state search, population statistics, and dark mode layout with Tailwind CSS
+
+### 🔍 Programmer Analyst Trainee Intern  
+**Cognizant Technology Solutions (2022)**  
+- Domain: `Quality Engineering & Assurance (Java & Selenium)`  
+- Worked on automation testing pipelines and gained corporate development experience
+
+---
+
+## 🧭 Goals
+
+- 🔎 Pursue **PhD in CSE** (Focus: AI, Edge, Embedded Systems, Web)
+- 🧠 Conduct **industry-relevant research**
+- 🌐 Build scalable **real-time apps** and **intelligent edge solutions**
+- 📦 Contribute to **open-source WebGIS** and **drone control systems**
+- 📘 Master **DevOps**, **Cloud Infrastructure**, **GitOps**, **Docker**, **Kubernetes**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrigankaSB&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrigankaSB&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+📧 [Email](mailto:mrigankasb23@iitk.ac.in)  
+🌐 [Portfolio](https://mrigankasb.vercel.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/MrigankaSB/)  
+🐱 [GitHub](https://github.com/MrigankaSB)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:000000&height=120&section=footer&text=Mriganka%20Shekhar%20Barman&fontAlign=50&fontColor=ffffff&fontSize=20" />
+</p>
