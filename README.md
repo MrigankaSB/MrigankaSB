@@ -1,9 +1,11 @@
 <!-- Profile README: Mriganka Shekhar Barman -->
 
-<h1 align="center">Hey there, I'm Mriganka! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mriganka+Shekhar+Barman;Full+Stack+Dev+%7C+GIS+%7C+Embedded+UAVs;I+Build+Cool+Things+on+the+Web!">
+</h1>
+
 <p align="center">
-  <strong>💻 Full Stack Developer | 🎯 C++ & Embedded Systems | 🧭 WebGIS | 🤖 AI/ML Enthusiast</strong><br>
-  <em>Bridging Civil Engineering and Computer Science • Always Learning • Open to Collaboration 🚀</em>
+  <img src="https://github.com/MrigankaSB/MrigankaSB/blob/main/assets/banner.gif" width="90%" alt="custom animated banner"/>
 </p>
 
 <p align="center">
@@ -14,90 +16,71 @@
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Student @ **IIT Kanpur**
-- 💻 Passionate about **Full Stack Development** and **DevOps**
-- 🧠 Strong foundations in **Data Structures and Algorithms (C++)**
-- 🌐 Skilled in **WebGIS** development with **Leaflet.js**
-- 🤖 Exploring **AI/ML** and **YOLO Optimization for Edge Deployment**
-- 🔌 Experienced with **Embedded Systems**, Sensor Integration, and UAV Tech
-- 🧪 Researching at the intersection of **Civil Engineering** and **Computer Science**
-
----
-
 ## 🧑‍💼 Experience
 
-- 👨‍💻 **Programmer Analyst Intern** at **Cognizant**  
-  _Domain: Quality Engineering & Assurance with Java and Selenium_
+### 🌐 WebGIS Intern – **TerrAqua UAV Solutions Pvt Ltd** (Apr 2025 – May 2025)
+- Built a responsive **WebGIS application** for Indian states using **Leaflet.js**, **GeoJSON**, and **Tailwind CSS**.
+- Implemented **search**, **statistical sidebar**, and **fixed-color rendering** like political maps.
+- Designed map to be **responsive and dark-themed**, with sidebar info (population, state count).
+- Integrated **real-time interactivity** and custom popups.
 
-- 🛰️ **WebGIS Intern** at **TerrAqua UAV Solutions Pvt Ltd**  
-  _Designed interactive maps for Indian states with Leaflet.js and Tailwind CSS_
+### 💻 Programmer Analyst Intern – **Cognizant** (Summer 2023)
+- Worked in **Quality Engineering and Assurance** domain with **Java & Selenium**.
+- Automated UI testing for enterprise-level web apps.
+- Applied test-driven development principles and executed regression test suites.
+- Gained hands-on experience in **SDLC**, **agile testing**, and enterprise tooling.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-### Languages
+> _(Click to expand full stack...)_
+
+<details>
+<summary><b>🧠 Programming & Scripting</b></summary>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=mysql)
 
-### Frontend
+</details>
+
+<details>
+<summary><b>🖥️ Frontend</b></summary>
+
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-MaterialUI-black?style=flat&logo=mui)
 
-### Backend
+</details>
+
+<details>
+<summary><b>🧰 Backend, DB & DevOps</b></summary>
+
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)
-![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat&logo=api)
-
-### Databases
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=githubactions)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 
-### GIS & UAV
-![Leaflet.js](https://img.shields.io/badge/-Leaflet-black?style=flat&logo=leaflet)
-![QGIS](https://img.shields.io/badge/-QGIS-black?style=flat&logo=qgis)
-![PX4](https://img.shields.io/badge/-PX4-black?style=flat&logo=px4&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/-ArduPilot-black?style=flat)
+</details>
 
 ---
 
-## 🌟 Fun Fact
+## 💻 Snippet Carousel
 
-> **MMM** = **Meme + Music + Mathematics** 🎶🎵🧮  
-> _That’s my fuel for innovation and creativity!_
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: [https://mrigankasb.github.io/portfolio](https://mrigankasb.github.io/portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/mrigankasb](https://www.linkedin.com/in/mrigankasb/)
-- 🐦 Twitter: [x.com/MSBarman123](https://x.com/MSBarman123)
-- 💻 GitHub: [github.com/MrigankaSB](https://github.com/MrigankaSB)
-- 📬 Email: mrigankasb23@iitk.ac.in
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+```javascript
+// Modern Portfolio | React + Tailwind + Framer Motion
+export default function Hero() {
+  return (
+    <motion.div className="text-white text-5xl">
+      <TypewriterEffect words={['Hi, I\'m Mriganka', 'I build cool things 🚀']} />
+    </motion.div>
+  );
+}
