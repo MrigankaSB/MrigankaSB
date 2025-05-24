@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>
-    Final Year @ IIT Kanpur • MERN Stack Dev • DSA Enthusiast • UAV Systems • GIS Mapping • Portfolio Designer
+    IIT Kanpur • MERN Stack Dev • DSA Enthusiast • UAV Systems • GIS Mapping
   </strong>
 </p>
 
@@ -60,7 +60,7 @@
 - Integrated GeoJSON, sidebar statistics, and customized popups for smooth UX.
 
 ### 💻 Programmer Analyst Intern  
-**Cognizant** | May–July 2022  
+**Cognizant Technology Solutions** | Feb–July 2022  
 - Trained in **Java**, **Selenium**, and **Automation Testing** under the **Quality Engineering and Assurance (QEA)** division.
 - Built frameworks to automate test cases for web apps using real-world data.
 - Collaborated in Agile teams and worked on backend unit-testing pipelines.
