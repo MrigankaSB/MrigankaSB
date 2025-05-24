@@ -32,14 +32,16 @@
 
 ## 💼 Experience
 
+<!---
 ### 🧪 Embedded Systems & UAV Intern — *Selection Task Phase*
 **TerrAqua UAV Solutions Pvt. Ltd.** | Apr–May 2025  
 - Designed and simulated a real-time **altitude estimation system** in C++.
 - Built fault-tolerant logic for sensor failures with data filtering and sanity checks.
 - Prepared for integration with **PX4**, **ArduPilot**, and **MAVLink**-based UAV stacks.
+-->
 
 ### 🗺️ WebGIS Intern  
-**TerrAqua UAV Solutions Pvt. Ltd.** | Apr 2025  
+**TerrAqua UAV Solutions Pvt. Ltd.** | June 2025  
 - Created a **WebGIS application** with **Leaflet.js**, showing all Indian states with unique colors and search functionality.
 - Developed a responsive, dark-themed UI with **Tailwind CSS** and **Framer Motion**.
 - Integrated GeoJSON, sidebar statistics, and customized popups for smooth UX.
