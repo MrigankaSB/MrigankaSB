@@ -21,13 +21,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year undergrad @ **IIT Kanpur** (Civil Engineering)
-- 💻 Full Stack Developer using **Next.js**, **React**, **Node.js**, **Tailwind CSS**
-- 🧠 DSA enthusiast with advanced **C++** problem-solving skills
+- 🎓 Student @ **IIT Kanpur**
+- 💻 Full Stack Developer using **Next.js**, **React**, **Node.js**, **Express.js**, **MongoDB**, **Tailwind CSS** 
+- 🧠 DSA enthusiast with problem-solving skills
 - 📍 Worked on **WebGIS** tools & interfaces for Indian states
 - 🛠️ Tinkering with **Embedded Systems**, **Sensors**, and **PX4/ArduPilot**
 - 🤖 Passionate about **AI/ML** and edge deployment using **YOLOv8**
-- 🌱 Currently building the **best personal portfolio website** on the web
 
 ---
 
@@ -50,13 +49,6 @@
 - Trained in **Java**, **Selenium**, and **Automation Testing** under the **Quality Engineering and Assurance (QEA)** division.
 - Built frameworks to automate test cases for web apps using real-world data.
 - Collaborated in Agile teams and worked on backend unit-testing pipelines.
-
----
-
-## 💡 Projects
-
-> Coming soon to my Portfolio... 🚀  
-> *(Hint: They involve GIS, embedded C++, AI/ML, and slick frontend design)*
 
 ---
 
