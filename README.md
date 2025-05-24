@@ -1,10 +1,20 @@
 <!-- Mriganka Shekhar Barman GitHub README -->
 
-<!-- Header with animated name -->
+<!-- Animated Name Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mriganka+Shekhar+Barman;Full+Stack+Dev+%7C+C%2B%2B+%7C+WebGIS+%7C+Embedded+Systems;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
+<!-- Catchy Tagline -->
+<h3 align="center">🚀 Building Code at the Crossroads of <i>Web, Maps & Machines</i></h3>
+
+<p align="center">
+  <strong>
+    Final Year @ IIT Kanpur • MERN Stack Dev • DSA Enthusiast • UAV Systems • GIS Mapping • Portfolio Designer
+  </strong>
+</p>
+
+<!-- Social and Portfolio Badges -->
 <p align="center">
   <a href="https://mrigankasb.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
@@ -14,6 +24,9 @@
   </a>
   <a href="https://x.com/MSBarman123" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:mrigankasb23@iitk.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
