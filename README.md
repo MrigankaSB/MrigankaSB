@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>
-    IIT Kanpur • MERN Stack Dev • DSA Enthusiast • UAV Systems • GIS Mapping
+    IIT Kanpur • Full Stack Dev • DSA Enthusiast • UAV Systems • GIS Mapping • AI/ML Enthusiast
   </strong>
 </p>
 
