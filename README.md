@@ -2,7 +2,7 @@
 
 <!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mriganka+Shekhar+Barman;Full+Stack+Dev+%7C+C%2B%2B+%7C+AI/ML+Enthusiast;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mriganka+Shekhar+Barman;Full+Stack+Dev+%7%2B%2B+%7C+AI/ML+Enthusiast;Welcome+to+my+GitHub+Universe!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <!-- Catchy Tagline -->
