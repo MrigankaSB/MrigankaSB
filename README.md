@@ -25,7 +25,7 @@
   <a href="https://x.com/MSBarman123" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:mrigankasb23@iitk.ac.in">
+  <a href="mailto:mriganka.sb2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -132,7 +132,7 @@
 ## 🤝 Let's Connect!
 
 📫 Reach out anytime:
-- 📧 Email: [mrigankasb23@iitk.ac.in](mailto:mrigankasb23@iitk.ac.in)
+- 📧 Email: [mriganka.sb2018@gmail.com](mailto:mriganka.sb2018@gmail.com)
 - 🌐 Website: [mrigankasb.github.io/portfolio](https://mrigankasb.github.io/portfolio)
 - 🧑‍💼 LinkedIn: [linkedin.com/in/mrigankasb](https://www.linkedin.com/in/mrigankasb/)
 - 🐦 Twitter/X: [x.com/MSBarman123](https://x.com/MSBarman123)
